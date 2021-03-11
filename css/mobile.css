@@ -14,8 +14,35 @@
 body {
   font-size: 13px;
   font-family: "Barlow Semi Condensed", sans-serif;
+  background-color: var(--light-grayish-blue);
 }
-
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 0 auto;
+    width: 90%;
+    gap: 20px;
+    justify-items: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+article {
+    border-radius: 8px;
+    
+}
+article:nth-of-type(1) {
+    background-color: var(--moderate-violet);
+}
+article:nth-of-type(2) {
+    background-color: var(--very-dark-grayish-blue);
+}
+article:nth-of-type(3), article:nth-of-type(5) {
+    background-color: var(--white);
+}
+article:nth-of-type(4) {
+    background-color: var(--very-dark-blackish-blue);
+}
 .attribution {
   font-size: 11px;
   text-align: center;
