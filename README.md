@@ -98,10 +98,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website (Coming soon!) - [Gustavo Sanchez](https://www.gusanche.dev)
-- Frontend Mentor - [@gustavosanchezgalarza](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@gustavosanchezgalarza](https://www.frontendmentor.io/profile/gustavosanchezgalarza)
 - Twitter - [@gusanchedev](https://www.twitter.com/gusanchedev)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 **Thanks for reading me 👍**
+
 **Gustavo**
