@@ -43,6 +43,10 @@ article:nth-of-type(3), article:nth-of-type(5) {
 article:nth-of-type(4) {
     background-color: var(--very-dark-blackish-blue);
 }
+.customer-picture {
+    width: 45px;
+    border-radius: 50%;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
