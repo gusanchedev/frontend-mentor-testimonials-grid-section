@@ -15,6 +15,7 @@ body {
   font-size: 13px;
   font-family: "Barlow Semi Condensed", sans-serif;
   background-color: var(--light-grayish-blue);
+  height: 100vh;
 }
 main {
   display: grid;
@@ -24,8 +25,8 @@ main {
   gap: 20px;
   justify-items: center;
   align-items: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 article {
   border-radius: 8px;
@@ -33,6 +34,9 @@ article {
 }
 article:nth-of-type(1) {
   background-color: var(--moderate-violet);
+  background-image: url("../images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: top 0px right 20px;
 }
 article:nth-of-type(2) {
   background-color: var(--very-dark-grayish-blue);
@@ -132,8 +136,8 @@ article:nth-child(5) > section.customer-quote > p {
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-top: 30px;
 }
-
 
 .attribution a {
   color: hsl(228, 45%, 44%);
