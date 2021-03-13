@@ -2,8 +2,6 @@ main {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   align-items: stretch;
-  /* padding: 30px; */
-  /* padding-bottom: 10px; */
 }
 article:nth-of-type(1) {
   grid-column: 1 / span 2;
